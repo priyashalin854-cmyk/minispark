@@ -162,10 +162,6 @@ This project helps understand:
 
 **Priya Shalin**
 
-- BCA Student
-- Aspiring Networking & Cybersecurity Engineer
-- Learning Python, Java, Data Structures & Algorithms, and Big Data
-
 ---
 
 ## 📄 License
